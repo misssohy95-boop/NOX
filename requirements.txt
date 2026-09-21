@@ -1,3 +1,0 @@
-evagod.py
-requirements.txt
-Procfile
